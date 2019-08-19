@@ -11,8 +11,11 @@ The Prosper loan dataset prosperLoanData.csv contains 113,937 observations of 81
 
 ## folder and files checklist:
 
-Folder Image - Save all the plots.
-prosperLoanData.csv - Prosper loan dataset.
-ProsperLoanDataclean.csv -  dataset wragled according our exploration.
-exploration_ProsperLoan.ipynb -  
+* Folder Image - Save all the plots.
+* prosperLoanData.csv - Prosper loan dataset.
+* ProsperLoanDataclean.csv -  dataset wragled according our exploration.
+* Prosper Loan Data Analysis.ipynb - Report including data exploring and finding
+* Prosper Loan Data Analysis.pdf - Save Prosper Loan Data Analysis.ipynb as pdf, you can check the report [here](https://drive.google.com/open?id=1_wVGwnB4lfJzzKrbATmziZL4SMAHFbuu)
+* Prosper Loan Data Analysis.html - Save Prosper Loan Data Analysis.ipynb as html
+* slide_deck_ProsperLoan.ipynb - a slide deck that leverages polished, explanatory visualizations to communicate the results
  
